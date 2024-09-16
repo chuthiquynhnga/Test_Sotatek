@@ -1,6 +1,7 @@
 # Test_Sotatek
 For the testing phase in Sotatek. 
 
+I include data, and coding is presented in 2 files (html and ipynb: similar but different file formats ).
 I have conducted this test with my enthusiasm and love for data sciences. However, the lack of data leads to undesirable results for the ideal metrics. 
 The praiseworthy point is that it can serve as the template for solving issues in analyzing data, EDA for modeling, the approach for imbalanced issues.
 
