@@ -2,6 +2,7 @@
 For the testing phase in Sotatek. 
 
 I have conducted this test with my enthusiasm and love for data sciences. However, the lack of data leads to undesirable results for the ideal metrics. 
+If time permits, we can try different models for solving overfitting such as logistic regression.
 I include data, and coding is presented in 2 files (html and ipynb: similar but different file formats ).
 
 The praiseworthy point is that it can serve as the template for solving issues in analyzing data, EDA for modeling, the approach for imbalanced issues.
